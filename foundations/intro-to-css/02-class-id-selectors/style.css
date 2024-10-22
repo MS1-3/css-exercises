@@ -6,3 +6,8 @@
 .nr-3{
     font-size: 24px; 
 }
+
+#number-2{
+    font-size: 36px; 
+    color: rgb(71, 71, 255)
+}
